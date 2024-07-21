@@ -1,5 +1,6 @@
 ﻿using System;
-
+//recuerden que esta es mi version de como hacer el switch anidado
+// el profesor lo hizo on do while por eso el proceso mio y el ede el son diferentes
 namespace Switch_anidado
 {
     class program
